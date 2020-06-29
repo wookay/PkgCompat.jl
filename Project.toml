@@ -1,0 +1,4 @@
+name = "PkgCompat"
+uuid = "9f6853da-353a-4398-8f64-dfe0fbf0a017"
+authors = ["WooKyoung Noh <wookay.noh@gmail.com>"]
+version = "0.1.0"
